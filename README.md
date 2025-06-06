@@ -50,5 +50,8 @@ VPNs can slow down speed slightly because:
 - Data is encrypted and routed through remote servers.
 - Server distance and load also affect performance.
 
+  Beyond the Basics: VPNs vs Deep Packet Inspection (DPI)
+In regions with heavy censorship, governments and ISPs often use Deep Packet Inspection (DPI) to identify and block VPN traffic. Advanced VPNs like Riseup use obfuscation techniques to disguise VPN data as regular HTTPS traffic, making it harder for DPI systems to detect or throttle it. This capability is crucial for activists, journalists, and individuals in restrictive regimes, allowing them to bypass censorship and communicate freely. VPNs thus serve not only as privacy tools but also as enablers of digital rights and freedom of expression.
+
 Conclusion
 This task demonstrated the importance of VPNs in securing online activity and the need to regularly audit browser extensions for security hygiene. Using Riseup VPN provided a quick and effective way to understand VPN functionality without requiring account creation or configuration.
